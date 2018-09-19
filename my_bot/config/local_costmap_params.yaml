@@ -1,0 +1,12 @@
+local_costmap:
+   global_frame: odom
+   robot_base_frame: robot_footprint
+   update_frequency: 4.0
+   publish_frequency: 4.0
+   # Map's prority
+   width: 5.0
+   height: 5.0
+   resolution: 0.05
+   # The dynamic map setting
+   static_map: false
+   rolling_window: true

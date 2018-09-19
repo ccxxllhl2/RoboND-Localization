@@ -1,0 +1,5 @@
+TrajectoryPlannerROS:
+  holonomic_robot: false
+  meter_scoring: true
+  gdist_scale: 1.0
+  pdist_scale: 0.5
